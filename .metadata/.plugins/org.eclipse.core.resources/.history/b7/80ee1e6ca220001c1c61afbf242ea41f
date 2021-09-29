@@ -1,0 +1,13 @@
+package async;
+
+import net.minecraft.client.Minecraft;
+
+public class SlayerThread extends Thread {
+	
+	public boolean SPAM_RIGHTCLICK = false;
+	
+	public void run() {
+		//Minecraft.getMinecraft().thePlayer.
+	}
+	
+}
